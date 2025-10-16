@@ -116,7 +116,7 @@ System.out.println(heap.findMin().getKey()); // 3
 
 ---
 
-## 🚀 Why It Impresses Interviewers
+## 🚀 Knowledge that the project presents
 - Shows **deep algorithmic understanding** beyond surface-level data structures.
 - Demonstrates **OOP design** with separation of concerns.
 - Highlights **amortized analysis**, potential method, and efficiency trade-offs.
@@ -133,4 +133,3 @@ Developed as part of the *Advanced Data Structures* course project.
 
 ## 📜 License
 For academic and interview demonstration use.  
-Please credit the authors if reused.
