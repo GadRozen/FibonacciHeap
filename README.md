@@ -9,7 +9,7 @@ This project was developed as part of an advanced **Data Structures** course and
 ---
 
 ## 🧱 Design Philosophy
-Fibonacci heaps are notoriously subtle. This implementation focuses on **clean architecture**, **educational readability**, and **instrumentation for analysis**:
+Fibonacci heaps are notoriously subtle. This implementation focuses on **clean architecture** and **educational readability**:
 
 - **Readable structure**: clear separation between heap logic and node internals (`HeapNode` class).
 - **Low-level control**: explicit doubly linked circular lists for root and child lists — no Java `LinkedList` shortcuts.
