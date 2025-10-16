@@ -1,4 +1,4 @@
-# Fibonacci Heap (Java) — Interview‑Ready README
+# Fibonacci Heap (Java) — README
 
 A production‑quality implementation of a **Fibonacci Heap** over positive integers, written in Java as part of a university *Data Structures* course project.  
 This README highlights the **engineering decisions**, **algorithmic guarantees**, and **testing strategy** interviewers usually ask about.
