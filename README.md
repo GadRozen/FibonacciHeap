@@ -89,7 +89,7 @@ These let you empirically verify amortized behavior — perfect for coursework o
 ---
 
 ## 🧪 Testing Ideas
-Interviewers love hearing about how you tested invariants:
+
 - **Consolidation tests**: insert keys with same degree, deleteMin, verify all root degrees unique.
 - **Cascading cuts tests**: force multiple decreaseKeys, check totalCuts counter increments correctly.
 - **Edge cases**: empty heap deletes, meld with empty heap, repeated findMin calls.
